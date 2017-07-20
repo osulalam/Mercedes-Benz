@@ -14,3 +14,5 @@ Data+Processing.ipynb was me messing around in *Jupyter Notebook* for the first 
 ### XGBMBenz_Stacked+Luke+Chu.ipynb
 XGBMBenz_Stacked+Luke+Chu.ipynb was the final model that Luke Chu, my teammate, coded. The entire commit was just me making notes along with minor edits to help me understand what was happening. Again, still under construction...
 
+The unedited version of Luke's original commit along with the rest of the data from the training and test set can be found [here](https://github.com/yeere91/MercedesBenz/) at this repository. 
+
