@@ -1,6 +1,6 @@
 
 # Mercedes-Benz Kaggle Competition
-This was is *first* repository, *first* time coding in Python, *first* time dabbling in this GitHub world, and *first* Kaggle Competition that I was luck enough to participate in. My main intention was to just play around and learn.  
+This was is *first* repository, *first* time coding in Python, *first* time dabbling in this GitHub world, and *first* Kaggle Competition that I was lucky enough to participate in. My main intention was to just play around and learn.  
 
 ## Explaining the Commits
 ### MARS.py
